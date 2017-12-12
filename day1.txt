@@ -1,0 +1,2 @@
+1) objects in js;
+2) DOM;
