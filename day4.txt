@@ -1,0 +1,4 @@
+1) Charts
+Another way of presentation some data on the web page. more beneficial then table2)
+2) canvas
+HTML5. Thing help us to draw on the page. 
