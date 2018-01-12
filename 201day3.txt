@@ -1,0 +1,5 @@
+## Today I learned :
+> Execute event bindings with jQuery’s $.on() 
+> Comprehend when event delegation is ppropriate.
+> Be able to configure event bindings using delegation.
+> Data-attributes & concatenation.

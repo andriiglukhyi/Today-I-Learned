@@ -1,0 +1,14 @@
+## Today I learned :
+>1) Responsive Web Design
+>2) SMACSS
+        Base
+        Layout
+        Module
+        State
+        Theme
+>3) Mobile Design First 
+>4) Flexible Layouts
+>5) Viewport Metas
+>6) SMACSS
+>7) Icon Fonts
+>8) Before/After pseudo elements
